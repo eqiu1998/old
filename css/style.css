@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,800|Lora:400italic|Playfair+Display:700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,800|Lora:400italic|Playfair+Display:700|Oswald:700,400,300,800|Lato:400,300,800);
 html,
 body,
 .cross-portfolio,
@@ -13,7 +13,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.5;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Lato', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
 }
@@ -441,11 +441,11 @@ ul.menu-click {
 }
 
 .cross-portfolio.modify .bg-img::before {
-  background-color: rgba(97, 62, 63, 0.4);
+  background-color: rgba(47,115,174,0.25);
 }
 
 .cross-portfolio .title h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Oswald', serif;
   font-weight: 700;
   font-size: 4em;
 }
@@ -470,7 +470,7 @@ ul.menu-click {
 
 .cross-portfolio.modify div.content:nth-child(odd) { /* Change div content color odd */
   opacity: 1;
-  background: #f3f3f3;
+  background: #2f537d;
   -webkit-transition: opacity 0.6s ease-in;
   -moz-transition: opacity 0.6s ease-in;
   -o-transition: opacity 0.6s ease-in;
@@ -485,7 +485,7 @@ ul.menu-click {
 .cross-portfolio.modify div.content:nth-child(5) { /* Change div content 5 to gradient */
   color: #fff;
   background: #466368;
-  background: radial-gradient(#648880, #293f50);
+  background: radial-gradient(#3580c2, #2f537d);
   -webkit-transition: opacity 0.6s ease-in;
   -moz-transition: opacity 0.6s ease-in;
   -o-transition: opacity 0.6s ease-in;
