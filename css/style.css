@@ -246,6 +246,7 @@ ul.menu-click {
   text-transform: uppercase;
   padding: 0 0 0.2em;
   color: #fff;
+  font-family: Raleway;
   font-weight: 800;
   font-size: 5em;
   margin: 0 auto;
@@ -298,6 +299,7 @@ ul.menu-click {
 }
 
 .logo {
+  font-family: Raleway;
   text-align: left;
   font-weight: bold;
   display: -moz-inline-stack;
@@ -872,6 +874,7 @@ figure.cross-image:hover p {
 /* Footer logo */
 
 .footer-logo {
+  font-family: Raleway;
   text-align: left;
   font-weight: bold;
   display: -moz-inline-stack;
