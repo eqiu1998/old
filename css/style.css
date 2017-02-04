@@ -55,6 +55,11 @@ hr {
   margin-left: 38px;
 }
 
+#loader h4 {
+  font-family: lato;
+  font-weight: 600;
+}
+
 #loader,
 .pre-logo {
   height: 200px;
@@ -223,7 +228,7 @@ ul.menu-click {
 }
 
 
-/* Big title stye */
+/* Big title style */
 
 .big-title {
   margin: 0 auto;
@@ -446,7 +451,7 @@ ul.menu-click {
 
 .cross-portfolio .title h1 {
   font-family: 'Oswald', serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 4em;
 }
 
