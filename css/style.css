@@ -84,7 +84,7 @@ hr {
 
 #menu-overlay {
   opacity: 0;
-  background: #111;
+  background: #2f537d;
   position: fixed;
   visibility: hidden;
   top: 0;
@@ -100,7 +100,7 @@ hr {
 #menu-overlay.menu-show {
   visibility: visible;
   z-index: 100;
-  opacity: 1;
+  opacity: 0.95;
 }
 
 ul.menu-click {
