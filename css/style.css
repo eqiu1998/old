@@ -450,9 +450,6 @@ ul.menu-click {
 .cross-portfolio.modify .bg-img::before {
   background-color: rgba(47,115,174,0.25);
 }
-.cross-portfolio .title {
-  background-color: #2f537d;
-}
 
 .cross-portfolio .title h1 {
   font-family: 'Oswald', serif;
