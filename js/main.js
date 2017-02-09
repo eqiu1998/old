@@ -1,7 +1,7 @@
 (function() {
   //preloader
   $(window).load(function() {
-    $('#preloader').delay(1000).fadeOut('slow');
+    $('#preloader').delay(3000).fadeOut('slow');
   });
 
   // detect if IE
